@@ -1,0 +1,14 @@
+C:\Users\cicada\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\bin\Debug\CreateDBApp.exe.config
+C:\Users\cicada\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\bin\Debug\CreateDBApp.exe
+C:\Users\cicada\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\bin\Debug\CreateDBApp.pdb
+C:\Users\cicada\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.csprojAssemblyReference.cache
+C:\Users\cicada\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.csproj.CoreCompileInputs.cache
+C:\Users\cicada\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.exe
+C:\Users\cicada\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.pdb
+C:\Users\cicada\Desktop\CS480 - Projects\Project 1\CreateDBApp\CreateDBApp\CreateDBApp\bin\Debug\CreateDBApp.exe.config
+C:\Users\cicada\Desktop\CS480 - Projects\Project 1\CreateDBApp\CreateDBApp\CreateDBApp\bin\Debug\CreateDBApp.exe
+C:\Users\cicada\Desktop\CS480 - Projects\Project 1\CreateDBApp\CreateDBApp\CreateDBApp\bin\Debug\CreateDBApp.pdb
+C:\Users\cicada\Desktop\CS480 - Projects\Project 1\CreateDBApp\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.csprojAssemblyReference.cache
+C:\Users\cicada\Desktop\CS480 - Projects\Project 1\CreateDBApp\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.csproj.CoreCompileInputs.cache
+C:\Users\cicada\Desktop\CS480 - Projects\Project 1\CreateDBApp\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.exe
+C:\Users\cicada\Desktop\CS480 - Projects\Project 1\CreateDBApp\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.pdb

@@ -1,0 +1,20 @@
+C:\Users\cicada\Desktop\BikeHike\BikeHike\bin\Debug\BikeHike.exe.config
+C:\Users\cicada\Desktop\BikeHike\BikeHike\bin\Debug\BikeHike.exe
+C:\Users\cicada\Desktop\BikeHike\BikeHike\bin\Debug\BikeHike.pdb
+C:\Users\cicada\Desktop\BikeHike\BikeHike\obj\Debug\BikeHike.csprojAssemblyReference.cache
+C:\Users\cicada\Desktop\BikeHike\BikeHike\obj\Debug\BikeHike.Form1.resources
+C:\Users\cicada\Desktop\BikeHike\BikeHike\obj\Debug\BikeHike.Properties.Resources.resources
+C:\Users\cicada\Desktop\BikeHike\BikeHike\obj\Debug\BikeHike.csproj.GenerateResource.cache
+C:\Users\cicada\Desktop\BikeHike\BikeHike\obj\Debug\BikeHike.csproj.CoreCompileInputs.cache
+C:\Users\cicada\Desktop\BikeHike\BikeHike\obj\Debug\BikeHike.exe
+C:\Users\cicada\Desktop\BikeHike\BikeHike\obj\Debug\BikeHike.pdb
+C:\Users\cicada\Desktop\CS480 - Projects\Project 2\BikeHike\BikeHike\bin\Debug\BikeHike.exe.config
+C:\Users\cicada\Desktop\CS480 - Projects\Project 2\BikeHike\BikeHike\bin\Debug\BikeHike.exe
+C:\Users\cicada\Desktop\CS480 - Projects\Project 2\BikeHike\BikeHike\bin\Debug\BikeHike.pdb
+C:\Users\cicada\Desktop\CS480 - Projects\Project 2\BikeHike\BikeHike\obj\Debug\BikeHike.csprojAssemblyReference.cache
+C:\Users\cicada\Desktop\CS480 - Projects\Project 2\BikeHike\BikeHike\obj\Debug\BikeHike.Form1.resources
+C:\Users\cicada\Desktop\CS480 - Projects\Project 2\BikeHike\BikeHike\obj\Debug\BikeHike.Properties.Resources.resources
+C:\Users\cicada\Desktop\CS480 - Projects\Project 2\BikeHike\BikeHike\obj\Debug\BikeHike.csproj.GenerateResource.cache
+C:\Users\cicada\Desktop\CS480 - Projects\Project 2\BikeHike\BikeHike\obj\Debug\BikeHike.csproj.CoreCompileInputs.cache
+C:\Users\cicada\Desktop\CS480 - Projects\Project 2\BikeHike\BikeHike\obj\Debug\BikeHike.exe
+C:\Users\cicada\Desktop\CS480 - Projects\Project 2\BikeHike\BikeHike\obj\Debug\BikeHike.pdb
